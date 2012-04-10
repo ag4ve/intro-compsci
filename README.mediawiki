@@ -4,11 +4,14 @@ This project is meant to give an introduction to computer science (and maybe bey
 
 I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point. Also, I'm using this to learn MediaWiki formatting, so please excuse the abrupt commit messages as I go through this process.
 
-= Intro =
+
+= Intro to programming =
+
+There is only one way to learn how to program - by programming.
 
 If you go through these tutorials and don't write any code, your return on inventment is liable to be quite small (or none at all). The best advise is (as is stated in many IRC conversations) TIAS - Try It And See. If you are afraid your code won't work and haven't tried it because of that fear, you're doomed. When you are presented with code examples, start trying them. Fail alot and learn alot.
 
-= Intro to programming =
+== Video tutorials ==
 
 Some video tutorials to start with:<br/>
 
