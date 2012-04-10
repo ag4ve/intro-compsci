@@ -2,4 +2,139 @@
 
 This project is meant to give an introduction to computer science (and maybe beyond). However, I don't intend to reinvent the wheel. This means that if someone already has written good documentation, I will link to it. This also means that a large part of the work is already done. What I haven't seen is a resource that takes the plethora of introductory information and puts it in one place. I intend to cover theory more than any one language, architecture, or software (I don't care if you think one thing is better than something else).
 
+(I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point)
+
+= Needs editing =
+
+crockford has done some really good talks on js. he goes through
+computer history, into programming languages, and then onto
+javascript. very informative on all levels:
+http://yuiblog.com/crockford/
+
+the ibm ajax article (most that do js have read this and everyone else
+should :) ):
+http://www.ibm.com/developerworks/web/library/wa-ajaxintro1/index.html
+
+firebug:
+https://addons.mozilla.org/en-US/firefox/addon/firebug/
+
+nodejs
+http://nodejs.org/
+
+~3rd party plugins for jquery:
+http://jqueryui.com/
+
+what i'd probably use instead of ajax.autocomplete:
+http://handlebarsjs.com/ 
+
+more tutorials:
+http://jqfundamentals.com/
+http://tutsplus.com/lesson/hello-jquery/
+
+it was recommended (pretty much by consensus) that you use firebug to
+learn this stuff and not node. that said, another good set of
+tutorials is:
+http://nodetuts.com/
+
+also what i have started reading (somewhat more advanced but like i
+said js has few rules, so you should probably read this pretty soon):
+http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/
+
+alternatives - jquery isn't the only library around (it is what i
+prefer, however there are others). so, you might want to look at these
+other libraries and see if you prefer something over jquery: mootools
+- i don't know how well this is currently being developed and might
+stay away from it just because of that. prototype - looks perlish, but
+does some evilness in js (messing with the object.prototype). yui -
+this does some very cool things (seems to beautify pages too) but it
+is slow and doesn't have the amount of people using it as jquery does.
+
+also, you might want to look for mailing lists. i don't think there's
+a jquery users mailing list anymore. however there is irc (spend a few
+hours, learn and get on irc - the time you spend figuring out this
+system will pay off in the help you get in the long run). there's a
+#javascript channel, #jquery, #jquery-ui, etc - some of those people
+are smarter and/or more knowledgeable than me and will help (just make
+sure you google before you ask). look at the plethora of technical
+technical web forums out there (stackoverflow, and others get enough
+traffic that you'll generally get someone with a useful answer). learn
+to love github (there have some days that i go no where else) - there
+are tons of projects here, and with them comes tons of documentation
+and examples.
+
+you might not understand until you get into this more - find a text
+editor you can live with (i use vim but don't know that i can
+recommend it for starting out). but, there's notepad++ (win), textmate
+(mac), coda (mac),.... or shit, just go with a link:
+http://lifehacker.com/385929/best-text-editors or google 'best text
+editor'. also, you might eventually find a liking for emacs (as i have
+for vi / vim) however, i wouldn't start out with it - i think of emacs
+as an operating system with editor features, you don't want to be
+learning this at the same time as everything else.
+
+last, i'm not sure how much you know about programming. html is not
+programming - it is markup language specification (and a bad one at
+that) - a way of formatting data. if you need an intro to programming,
+suggest a few things here:
+basic js:
+http://www.w3.org/wiki/Programming_-_the_real_basics
+there's also this (which was recommended to me and i'll probably get
+some use out of):
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/
+
+o'reilly also has *algorithms books (c algorithms, perl algorithms,
+.net algorithms, etc) that are good coffee table books. ie, i wouldn't
+read them cover to cover but are cool to flip through. there's also
+the k&r c book:
+http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628
+(don't buy this, go to the library and check it out - if they don't
+have multiple copies of this, let me know so i can go and shoot
+someone for being stupid - this is *the* programming book)
+
+lastly, you'll notice i've veered this discussion into other
+programming languages. this is because they are all about the same.
+you've got variable scope, general / agreed upon style / best
+practices, built in functions, execution order, an object / class
+system (or lack thereof), and minor syntax differences, but that's
+about it. learn a language, then learn two, then all the rest are
+roughly the same. so, the mit videos and the k&r book can be applied
+to learning js.
+
+
+fwiw, here are my js bookmarks (again lots of server side js which
+might not be as useful to doing browser stuff, and lots of those links
+are above too):
+http://www.rubyglob.com/auction-system-using-bayeux-and-node-js/ 
+http://stackoverflow.com/questions/5317282/what-is-the-difference-between-dnode-and-nowjs
+http://jsfiddle.net/
+http://www.learningjquery.com/2009/03/43439-reasons-to-use-append-correctly
+http://fabianosoriani.wordpress.com/2012/03/06/basic-authentication-on-node-js-express-and-mongoose/
+http://bugs.cq.com/browse/CAPW-462
+http://alexyz78.blogspot.com/2009/05/addremove-options-from-select-list-with.html
+http://www.highcharts.com/
+http://tutorials.jenkov.com/jquery/selection.html
+http://quirksmode.org/compatibility.html
+https://gist.github.com/1232497
+http://blog.jcoglan.com/2010/08/10/evented-programming-patterns-testing-event-driven-apps/
+http://japhr.blogspot.com/2010/08/faye-extensions-101-disabling-wildcard.html 
+https://github.com/akdubya/dustjs/blob/master/test/examples.js
+http://laktek.com/2011/03/03/introducing-jquery-smart-autocomplete/
+http://dailyjs.com/page15/
+http://onwebdev.blogspot.com/search/label/jquery
+http://net.tutsplus.com/tutorials/javascript-ajax/how-to-use-the-jquery-ui-autocomplete-widget/
+http://coding.smashingmagazine.com/2011/09/27/searchable-dynamic-content-with-ajax-crawling/
+https://developer.mozilla.org/en/Javascript
+https://aymanh.com/9-javascript-tips-you-may-not-know
+http://www.scoop.it/t/nodejs-code
+http://mongly.com/geo/index
+http://express.davglass.com/ 
+http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/
+http://jibbering.com/faq/notes/closures/
+http://oscarotero.com/jquery/
+http://stackoverflow.com/questions/7990890/how-to-implement-login-auth-in-node-js/8003291#8003291
+http://akdubya.github.com/dustjs/benchmark/index.html
+http://pixelhandler.com/blog/2012/02/09/develop-a-restful-api-using-node-js-with-express-and-mongoose/ 
+http://jqfundamentals.com/
+http://davybrion.com/blog/2011/07/first-steps-with-mongodb-mongoose-and-jasmine-node-on-node-js/
+https://github.com/yui
 
