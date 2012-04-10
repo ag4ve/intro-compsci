@@ -104,7 +104,7 @@ http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628<br/>
 
 == Mailing lists ==
 
-Most projects have a mailing list <https://en.wikipedia.org/wiki/Mailing_list/>. If you think you'll be using the project, I suggest you join the mailing list before you actually have a question. This way, you can get a feel for what the community is like, what type of questions might not be appropriate, etc. Most lists provide an archive too, but I think people are more likely to read things sent to their inbox than going through an archive (atleast I am).<br/>
+Most projects have a mailing list (https://en.wikipedia.org/wiki/Mailing_list/). If you think you'll be using the project, I suggest you join the mailing list before you actually have a question. This way, you can get a feel for what the community is like, what type of questions might not be appropriate, etc. Most lists provide an archive too, but I think people are more likely to read things sent to their inbox than going through an archive (atleast I am).<br/>
 
 == IRC ==
 
@@ -128,11 +128,11 @@ I learn best by example (then I look at the API for clarification). Most project
 
 Don't use the editor of an office suite (Microsoft Word, LibreOffice Text, etc) to write programs. Though you might be inclined to use the same tool to write code as you do to write documents, this is generally a bad idea. The exception is if you are already using an editor that has the features you'll want when coding. There are quite a few editors that are quite adequate for coding. I'm going to try to order this short list of editors from hardest to learn to easiest:
 
-* Emacs <https://www.gnu.org/software/emacs/>
-* VIM <http://www.vim.org/>
-* Coda $ <https://www.panic.com/coda/>
-* TextMate <https://macromates.com/>
-* Notepad++ <http://notepad-plus-plus.org/>
+* Emacs https://www.gnu.org/software/emacs/
+* VIM http://www.vim.org/
+* Coda $ https://www.panic.com/coda/
+* TextMate https://macromates.com/
+* Notepad++ http://notepad-plus-plus.org/
 
 = Links =
 FWIW, here are my js bookmarks (again lots of server side js which might not be as useful to doing browser stuff, and lots of those links are above too):<br/>
