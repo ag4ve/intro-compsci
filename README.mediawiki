@@ -4,7 +4,7 @@ This project is meant to give an introduction to computer science (and maybe bey
 
 I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point. Also, I'm using this to learn MediaWiki formatting, so please excuse the abrupt commit messages as I go through this process.
 
-= Needs editing =
+= Basicness =
 
 Douglas Crockford has done some really good talks on js. He goes through computer history, into programming languages, and then onto javascript. This is a very informative introduction:<br/>
 http://yuiblog.com/crockford/<br/>
