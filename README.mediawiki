@@ -6,33 +6,33 @@ This project is meant to give an introduction to computer science (and maybe bey
 
 = Needs editing =
 
-crockford has done some really good talks on js. he goes through computer history, into programming languages, and then onto javascript. very informative on all levels:
-http://yuiblog.com/crockford/
+crockford has done some really good talks on js. he goes through computer history, into programming languages, and then onto javascript. very informative on all levels:<br/>
+http://yuiblog.com/crockford/<br/>
 
-the ibm ajax article (most that do js have read this and everyone else should :) ):
-http://www.ibm.com/developerworks/web/library/wa-ajaxintro1/index.html
+the ibm ajax article (most that do js have read this and everyone else should :) ):<br/>
+http://www.ibm.com/developerworks/web/library/wa-ajaxintro1/index.html<br/>
 
-firebug:
-https://addons.mozilla.org/en-US/firefox/addon/firebug/
+firebug<br/>
+https://addons.mozilla.org/en-US/firefox/addon/firebug/<br/>
 
-nodejs
-http://nodejs.org/
+nodejs<br/>
+http://nodejs.org/<br/>
 
-~3rd party plugins for jquery:
-http://jqueryui.com/
+~3rd party plugins for jquery:<br/>
+http://jqueryui.com/<br/>
 
-what i'd probably use instead of ajax.autocomplete:
-http://handlebarsjs.com/
+what i'd probably use instead of ajax.autocomplete:<br/>
+http://handlebarsjs.com/<br/>
 
-more tutorials:
-http://jqfundamentals.com/
-http://tutsplus.com/lesson/hello-jquery/
+more tutorials:<br/>
+http://jqfundamentals.com/<br/>
+http://tutsplus.com/lesson/hello-jquery/<br/>
 
-it was recommended (pretty much by consensus) that you use firebug to learn this stuff and not node. that said, another good set of tutorials is:
-http://nodetuts.com/
+it was recommended (pretty much by consensus) that you use firebug to learn this stuff and not node. that said, another good set of tutorials is:<br/>
+http://nodetuts.com/<br/>
 
-also what i have started reading (somewhat more advanced but like i said js has few rules, so you should probably read this pretty soon):
-http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/
+also what i have started reading (somewhat more advanced but like i said js has few rules, so you should probably read this pretty soon):<br/>
+http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/<br/>
 
 alternatives - jquery isn't the only library around (it is what i prefer, however there are others). so, you might want to look at these other libraries and see if you prefer something over jquery: mootools - i don't know how well this is currently being developed and might stay away from it just because of that. prototype - looks perlish, but does some evilness in js (messing with the object.prototype). yui - this does some very cool things (seems to beautify pages too) but it is slow and doesn't have the amount of people using it as jquery does.
 
@@ -42,14 +42,14 @@ you might not understand until you get into this more - find a text editor you c
 http://lifehacker.com/385929/best-text-editors or google 'best text editor'. also, you might eventually find a liking for emacs (as i have for vi / vim) however, i wouldn't start out with it - i think of emacs as an operating system with editor features, you don't want to be learning this at the same time as everything else.
 
 last, i'm not sure how much you know about programming. html is not programming - it is markup language specification (and a bad one at that) - a way of formatting data. if you need an intro to programming, suggest a few things here:
-basic js:
-http://www.w3.org/wiki/Programming_-_the_real_basics
-there's also this (which was recommended to me and i'll probably get some use out of):
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/
+basic js:<br/>
+http://www.w3.org/wiki/Programming_-_the_real_basics<br/>
+there's also this (which was recommended to me and i'll probably get some use out of):<br/>
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/<br/>
 
-o'reilly also has *algorithms books (c algorithms, perl algorithms, .net algorithms, etc) that are good coffee table books. ie, i wouldn't read them cover to cover but are cool to flip through. there's also the k&r c book:
-http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628
-(don't buy this, go to the library and check it out - every library should have at least one copy of this book)
+o'reilly also has *algorithms books (c algorithms, perl algorithms, .net algorithms, etc) that are good coffee table books. ie, i wouldn't read them cover to cover but are cool to flip through. there's also the k&r c book:<br/>
+http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628<br/>
+(don't buy this, go to the library and check it out - every library should have at least one copy of this book)<br/>
 
 lastly, you'll notice i've veered this discussion into other programming languages. this is because they are all about the same. you've got variable scope, general / agreed upon style / best practices, built in functions, execution order, an object / class system (or lack thereof), and minor syntax differences, but that's about it. learn a language, then learn two, then all the rest are roughly the same. so, the mit videos and the k&r book can be applied to learning js.
 
