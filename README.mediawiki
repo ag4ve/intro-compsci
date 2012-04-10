@@ -1,0 +1,5 @@
+= PURPOSE =
+
+This project is meant to give an introduction to computer science (and maybe beyond). However, I don't intend to reinvent the wheel. This means that if someone already has written good documentation, I will link to it. This also means that a large part of the work is already done. What I haven't seen is a resource that takes the plethora of introductory information and puts it in one place. I intend to cover theory more than any one language, architecture, or software (I don't care if you think one thing is better than something else).
+
+
