@@ -4,8 +4,8 @@ This project is meant to give an introduction to computer science (and maybe bey
 
 I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point. Also, I'm using this to learn MediaWiki formatting, so please excuse the abrupt commit messages as I go through this process.
 
-
 = Intro to programming =
+TODO: I need to find a good tutorial (or write one) for describing how event loops work so that I can expect people to move from JS and other languages easily. Maybe it is better to rely on patterns?
 
 There is only one way to learn how to program - by programming.
 
@@ -24,6 +24,23 @@ http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-intr
 * Douglas Crockford has done some really good talks on js. He goes through computer history, into programming languages, and then onto javascript. This is a very informative introduction:<br/>
 http://yuiblog.com/crockford/<br/>
 
+== Text tutorials ==
+
+An interactive tutorial for python programming:<br/>
+http://www.learnpython.org/<br/>
+
+Natural Language Processing with Python (Book) - Natural Language Toolkit (this text is so well written, it made me start looking at Python outside of Sage):<br/>
+http://www.nltk.org/book<br/>
+
+The IBM AJAX series of articles:<br/>
+http://www.ibm.com/developerworks/web/library/wa-ajaxintro1/index.html<br/>
+
+Another good set of tutorials (centered around Node.JS and server-side libraries) is:<br/>
+http://nodetuts.com/<br/>
+
+This is somewhat more advanced but JS has very few rules, so you will probably get to reading this pretty soon):<br/>
+http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/<br/>
+
 == Javascript Libraries ==
 
 * JQuery:<br/>
@@ -35,6 +52,7 @@ http://tutsplus.com/lesson/hello-jquery/<br/>
 
 ** 3rd party plugins for JQuery:<br/>
 http://jqueryui.com/<br/>
+----
 
 * MooTools:<br/>
 http://mootools.net/<br/>
@@ -53,20 +71,10 @@ https://addons.mozilla.org/en-US/firefox/addon/firebug/<br/>
 Node.JS:<br/>
 http://nodejs.org/<br/>
 
-The IBM AJAX series of articles:<br/>
-http://www.ibm.com/developerworks/web/library/wa-ajaxintro1/index.html<br/>
-
 A very nice and simple web templating language:<br/>
 http://handlebarsjs.com/<br/>
 
-It is recommended that you should start out with Javascript in the browser and use Firebug and not Node.JS. That said, another good set of tutorials (centered around Node.JS and server-side libraries) is:<br/>
-http://nodetuts.com/<br/>
-
-This is somewhat more advanced but JS has very few rules, so you will probably get reading this pretty soon):<br/>
-http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/<br/>
-
 = Help and Community =
-TODO: make this section clearer and split things out.<br/>
 
 == Search ==
 
