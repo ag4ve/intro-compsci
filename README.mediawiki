@@ -2,14 +2,13 @@
 
 This project is meant to give an introduction to computer science (and maybe beyond). However, I don't intend to reinvent the wheel. This means that if someone already has written good documentation, I will link to it. This also means that a large part of the work is already done. What I haven't seen is a resource that takes the plethora of introductory information and puts it in one place. I intend to cover theory more than any one language, architecture, or software (I don't care if you think one thing is better than something else).
 
-I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point. Also, I'm using this to learn MediaWiki formatting, so please excuse the abrupt commit messages as I go through this process.
-
 = Intro to programming =
-TODO: I need to find a good tutorial (or write one) for describing how event loops work so that I can expect people to move from JS and other languages easily. Maybe it is better to rely on patterns?
+TODO: I need to find a good tutorial (or write one) for describing how event loops work so that I can expect people to move from JS and other languages easily. Maybe it is better to rely on patterns?<br/>
+TODO: I need to figure out how to split some of this out so that someone can go through this in some sort of order (instead of just being bookmarks with comments).<br/>
 
-There is only one way to learn how to program - by programming.
+There is only one way to learn how to program - by programming.<br/>
 
-If you go through these tutorials and don't write any code, your return on inventment is liable to be quite small (or none at all). The best advise is (as is stated in many IRC conversations) TIAS - Try It And See. If you are afraid your code won't work and haven't tried it because of that fear, you're doomed. When you are presented with code examples, start trying them. Fail alot and learn alot.
+If you go through these tutorials and don't write any code, your return on inventment is liable to be quite small (or none at all). The best advise for learning to program is to write as much code as possible and fail often. If you are afraid your code won't work and haven't tried it because of that fear, you're doomed. When you are presented with code examples, start trying them. Fail alot and learn alot, never fail and learn nothing.
 
 == Video tutorials ==
 
@@ -122,7 +121,7 @@ Don't use the editor of an office suite (Microsoft Word, LibreOffice Text, etc) 
 * TextMate <https://macromates.com/>
 * Notepad++ <http://notepad-plus-plus.org/>
 
-== Links ==
+= Links =
 FWIW, here are my js bookmarks (again lots of server side js which might not be as useful to doing browser stuff, and lots of those links are above too):<br/>
 
 * http://www.rubyglob.com/auction-system-using-bayeux-and-node-js/ 
