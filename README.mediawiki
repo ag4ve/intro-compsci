@@ -62,14 +62,46 @@ http://prototypejs.org/<br/>
 http://developer.yahoo.com/yui/<br/>
 
 = Help and Community =
-TODO: make this section clearer and split things out.
+TODO: make this section clearer and split things out.<br/>
 
-You might want to look for mailing lists. I don't think there's a jquery users mailing list anymore. However there are JQuery people on IRC (spend a few hours, learn and get on irc - the time you spend figuring out this system will pay off in the help you get in the long run). there's a #javascript channel, #jquery, #jquery-ui, etc - some of those people are smarter and/or more knowledgeable than me and will help (just make sure you google before you ask). look at the plethora of technical technical web forums out there (stackoverflow, and others get enough traffic that you'll generally get someone with a useful answer). learn to love github (there have some days that i go no where else) - there are tons of projects here, and with them comes tons of documentation and examples.
+== Search ==
+
+In order to navigate the internet today, you must know how to find information. There are quite a few search services available. That said, if you ask a question that someone can copy and paste into a Google search and find one of the first few links answers your question, they won't be pleased with you. You've just wasted their time. So, do a few searches before asking a question in any public forum. If you are unsure of this point, Google 'asking smart questions' or see:
+* http://catb.org/~esr/faqs/smart-questions.html
+* http://support.microsoft.com/kb/555375
+
+== Mailing lists ==
+
+Most projects have a mailing list <https://en.wikipedia.org/wiki/Mailing_list>. If you think you'll be using the project, I suggest you join the mailing list before you actually have a question. This way, you can get a feel for what the community is like, what type of questions might not be appropriate, etc. Most lists provide an archive too, but I think people are more likely to read things sent to their inbox than going through an archive (atleast I am).<br/>
+
+== IRC ==
+
+Spend some time learning how to use IRC. For lots of projects this is the best resource out there (and it's immediate). This tutorial looks pretty reasonable:<br/>
+http://www.ircbeginner.com/index.php<br/>
+This also seems to have some good tutorials:<br/>
+http://www.irchelp.org/<br/>
+
+== Web Forums ==
+
+There are tons of these. Since some of these forums might not get that much traffic, I'll list a few:
+* https://stackexchange.com/
+* http://stackoverflow.com/
+* http://www.perlmonks.org/ (language specific - Perl)
+
+== Github ==
+
+I learn best by example (then I look at the API for clarification). Most projects have examples. However, you can also find fully functional projects on Github.
 
 = An Editor =
 
-you might not understand until you get into this more - find a text editor you can live with (i use vim but don't know that i can recommend it for starting out). but, there's notepad++ (win), textmate (mac), coda (mac),.... or shit, just go with a link:
-http://lifehacker.com/385929/best-text-editors or google 'best text editor'. also, you might eventually find a liking for emacs (as i have for vi / vim) however, i wouldn't start out with it - i think of emacs as an operating system with editor features, you don't want to be learning this at the same time as everything else.
+Don't use the editor of an office suite (Microsoft Word, LibreOffice Text, etc) to write programs. Though you might be inclined to use the same tool to write code as you do to write documents, this is generally a bad idea. The exception is if you are already using an editor that has the features you'll want when coding. There are quite a few editors that are quite adequate for coding. I'm going to try to order this short list of editors from hardest to learn to easiest:
+
+* Emacs <https://www.gnu.org/software/emacs/>
+* VIM <http://www.vim.org/>
+* Coda $ <https://www.panic.com/coda/>
+* TextMate <https://macromates.com/>
+* Notepad++ <http://notepad-plus-plus.org/>
+
 
 o'reilly also has *algorithms books (c algorithms, perl algorithms, .net algorithms, etc) that are good coffee table books. ie, i wouldn't read them cover to cover but are cool to flip through. there's also the k&r c book:<br/>
 http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628<br/>
