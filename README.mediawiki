@@ -28,6 +28,9 @@ http://yuiblog.com/crockford/<br/>
 
 == Text tutorials ==
 
+The Languages section here gives a nice introduction to a dozen different languages:<br/>
+http://www.fincher.org/tips/index.shtml<br/>
+
 An interactive tutorial for python programming:<br/>
 http://www.learnpython.org/<br/>
 
@@ -101,7 +104,7 @@ http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628<br/>
 
 == Mailing lists ==
 
-Most projects have a mailing list <https://en.wikipedia.org/wiki/Mailing_list>. If you think you'll be using the project, I suggest you join the mailing list before you actually have a question. This way, you can get a feel for what the community is like, what type of questions might not be appropriate, etc. Most lists provide an archive too, but I think people are more likely to read things sent to their inbox than going through an archive (atleast I am).<br/>
+Most projects have a mailing list <https://en.wikipedia.org/wiki/Mailing_list/>. If you think you'll be using the project, I suggest you join the mailing list before you actually have a question. This way, you can get a feel for what the community is like, what type of questions might not be appropriate, etc. Most lists provide an archive too, but I think people are more likely to read things sent to their inbox than going through an archive (atleast I am).<br/>
 
 == IRC ==
 
