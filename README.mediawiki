@@ -1,6 +1,6 @@
 = PURPOSE =
 
-This project is meant to give an introduction to computer science (and maybe beyond). However, I don't intend to reinvent the wheel. This means that if someone already has written good documentation, I will link to it. This also means that a large part of the work is already done. What I haven't seen is a resource that takes the plethora of introductory information and puts it in one place. I intend to cover theory more than any one language, architecture, or software (I don't care if you think one thing is better than something else).
+This project is meant to give an introduction to computers (I plan to expand to networking and security - and welcome contributions into other computer related fields). However, I don't intend to reinvent the wheel. This means that if someone already has written good documentation, I will link to it. This also means that a large part of the work is already done. What I haven't seen is a resource that takes the plethora of introductory information and put it in one place. I intend to cover theory more than any one language, architecture, or software (I don't care if you think one thing is better than something else).
 
 = Intro to programming =
 TODO: I need to find a good tutorial (or write one) for describing how event loops work so that I can expect people to move from JS and other languages easily. Maybe it is better to rely on patterns?<br/>
@@ -8,7 +8,10 @@ TODO: I need to figure out how to split some of this out so that someone can go 
 
 There is only one way to learn how to program - by programming.<br/>
 
-If you go through these tutorials and don't write any code, your return on inventment is liable to be quite small (or none at all). The best advise for learning to program is to write as much code as possible and fail often. If you are afraid your code won't work and haven't tried it because of that fear, you're doomed. When you are presented with code examples, start trying them. Fail alot and learn alot, never fail and learn nothing.
+If you go through these tutorials and don't write any code, your return on inventment is liable to be quite small (or none at all). The best advise for learning to program is to write as much code as possible and fail often. If you are afraid your code won't work and haven't tried it because of that fear, you're doomed. When you are presented with code examples, start trying them. Fail alot and learn alot, never fail and learn nothing.<br/>
+
+There is also this:<br/>
+http://www.cprogramming.com/how_to_learn_to_program.html<br/>
 
 == Video tutorials ==
 
@@ -39,6 +42,13 @@ http://nodetuts.com/<br/>
 
 This is somewhat more advanced but JS has very few rules, so you will probably get to reading this pretty soon):<br/>
 http://robertnyman.com/2008/10/21/javascript-inheritance-experimenting-with-syntax-alternatives-and-private-variables/<br/>
+
+=== Algorithms ===
+Note: You should figure out how much time you wish to spend looking at these. The more time you spend playing with different algorithms will make you a better programmer. However you can accomplish lots of tasks without knowing much about how different algorithms work.
+
+* http://rosettacode.org/wiki/Main_Page
+* https://en.wikipedia.org/wiki/Introduction_to_Algorithms
+* https://mitpress.mit.edu/sicp/full-text/book/book.html
 
 == Javascript Libraries ==
 
