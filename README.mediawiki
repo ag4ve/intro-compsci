@@ -2,7 +2,7 @@
 
 This project is meant to give an introduction to computer science (and maybe beyond). However, I don't intend to reinvent the wheel. This means that if someone already has written good documentation, I will link to it. This also means that a large part of the work is already done. What I haven't seen is a resource that takes the plethora of introductory information and puts it in one place. I intend to cover theory more than any one language, architecture, or software (I don't care if you think one thing is better than something else).
 
-(I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point)
+I am starting this document with text I sent someone about learning javascript - this may not be the the best language to convey some theories but it's a starting point. Also, I'm using this to learn MediaWiki formatting, so please excuse the abrupt commit messages as I go through this process.
 
 = Needs editing =
 
@@ -53,8 +53,9 @@ http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628<br/>
 
 lastly, you'll notice i've veered this discussion into other programming languages. this is because they are all about the same. you've got variable scope, general / agreed upon style / best practices, built in functions, execution order, an object / class system (or lack thereof), and minor syntax differences, but that's about it. learn a language, then learn two, then all the rest are roughly the same. so, the mit videos and the k&r book can be applied to learning js.
 
+== Links ==
+FWIW, here are my js bookmarks (again lots of server side js which might not be as useful to doing browser stuff, and lots of those links are above too):<br/>
 
-fwiw, here are my js bookmarks (again lots of server side js which might not be as useful to doing browser stuff, and lots of those links are above too):
 * http://www.rubyglob.com/auction-system-using-bayeux-and-node-js/ 
 * http://stackoverflow.com/questions/5317282/what-is-the-difference-between-dnode-and-nowjs
 * http://jsfiddle.net/
