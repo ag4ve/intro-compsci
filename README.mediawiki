@@ -37,6 +37,9 @@ http://www.learnpython.org/<br/>
 Natural Language Processing with Python (Book) - Natural Language Toolkit (this text is so well written, it made me start looking at Python outside of Sage):<br/>
 http://www.nltk.org/book<br/>
 
+Twisted Python - You probably notice that the style of Python (or Perl or C etc) look different from Javascript. This is because Javascript runs in an event loop. This documentation is not meant to show how to write non-blocking Javascript, but to show how an event loop works (other eventing systems include GTK, QT, WxWidgets, POE, and libev in C).<br/>
+http://twistedmatrix.com/documents/current/core/howto/index.html<br/>
+
 The IBM AJAX series of articles:<br/>
 http://www.ibm.com/developerworks/web/library/wa-ajaxintro1/index.html<br/>
 
@@ -98,7 +101,7 @@ In order to navigate the internet today, you must know how to find information. 
 
 With so much information on the web, its hard to recommend buying material that was probably out of date at the time of publication. That said, there are some times where this makes sense. The only type of book that I would consider spending money on are those that cover core language consepts. However, before you start looking at user reviews on amazon and spending your hard earned money, consider reading them on your computer:<br/>
 http://hackershelf.com/browse/<br/>
-And then there's the K&R C Programming book.<br/>
+And then there's the K&R C Programming book:<br/>
 http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628<br/>
 (don't buy this, go to the library and check it out - every library should have at least one copy of this book)<br/>
 
@@ -126,10 +129,12 @@ I learn best by example (then I look at the API for clarification). Most project
 
 = An Editor =
 
-Don't use the editor of an office suite (Microsoft Word, LibreOffice Text, etc) to write programs. Though you might be inclined to use the same tool to write code as you do to write documents, this is generally a bad idea. The exception is if you are already using an editor that has the features you'll want when coding. There are quite a few editors that are quite adequate for coding. I'm going to try to order this short list of editors from hardest to learn to easiest:
+Don't use the editor of an office suite (Microsoft Word, LibreOffice Text, etc) to write programs. Though you might be inclined to use the same tool to write code as you do to write documents, this is generally a bad idea. The exception is if you are already using an editor that has the features you'll want when coding to write documents. There are quite a few editors that are quite adequate for coding. I'm going to try to order this short list of editors from hardest to learn to easiest:
 
 * Emacs https://www.gnu.org/software/emacs/
+** EmacsWiki - http://emacswiki.org/
 * VIM http://www.vim.org/
+** VIMCASTS (awesome video tutorials) - http://vimcasts.org/
 * Coda $ https://www.panic.com/coda/
 * TextMate https://macromates.com/
 * Notepad++ http://notepad-plus-plus.org/
