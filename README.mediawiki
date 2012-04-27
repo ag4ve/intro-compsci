@@ -5,6 +5,7 @@ This project is meant to give an introduction to computers (I plan to expand to 
 = Intro to programming =
 TODO: I need to find a good tutorial (or write one) for describing how event loops work so that I can expect people to move from JS and other languages easily. Maybe it is better to rely on patterns?<br/>
 TODO: I need to figure out how to split some of this out so that someone can go through this in some sort of order (instead of just being bookmarks with comments).<br/>
+TODO: Someone pointed out this link a while ago. It has sat in a tab for a while and i haven't gotten to look at the links it provides so I'm just posting it now. Note however, that I don't think it worth introducing most to some things listed here like Go and Python 3. http://learnproglang.couch.it/
 
 There is only one way to learn how to program - by programming.<br/>
 
